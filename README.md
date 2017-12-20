@@ -13,3 +13,6 @@ pokemon sprites in a box!
 - "app.pyw" is the same but contains the source code
 - "gameButton.py" is a class i made for buttons in a game i'm making that i decided to use for this project too. feel free to steal them, they dynamically dim the color of the button for the hover effect and the cursor changes to hand2 on hover as well.
 - "animation.py" is the class i made for animating the gifs. feel free to steal this, too.
+
+- i uploaded the first 200 pokemon in pokes, but if you want the whole hog go to my google drive folder:
+https://drive.google.com/open?id=1dYQeqWeGSAcxIXdu6AREoRs8pPDb_O2s
