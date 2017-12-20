@@ -6,6 +6,7 @@ pokemon sprites in a box!
 
 - it doesn't do anything fancy, other than gather up all the gifs in the "pokes" folder, randomly pick one, and show it to you
 - there is a refresh button if you want it to pick again
+- the window defaults to the top left hand corner of the screen, but can be moved around by clicking and dragging the space to the right of the gif and above the close button
 - you can move gifs out of the "pokes" folder to prevent them from being chosen
 - don't add huge gifs to the "pokes" folder if you enjoy having a functioning application
 
