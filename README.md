@@ -10,8 +10,7 @@ pokemon sprites in a box!
 - you can move gifs out of the "pokes" folder to prevent them from being chosen
 - don't add huge gifs to the "pokes" folder if you enjoy having a functioning application
 
-- "Desktop Buddy.exe" is an executable that will only run if it is placed within the folder
-- "app.pyw" is the same but contains the source code
+- "app.pyw" is the program
 - "gameButton.py" is a class i made for buttons in a game i'm making that i decided to use for this project too. feel free to steal them, they dynamically dim the color of the button for the hover effect and the cursor changes to hand2 on hover as well.
 - "animation.py" is the class i made for animating the gifs. feel free to steal this, too.
 
